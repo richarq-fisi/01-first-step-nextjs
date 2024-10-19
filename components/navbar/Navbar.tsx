@@ -13,7 +13,7 @@ export function Navbar() {
     <div className="flex bg-blue-800 bg-opacity-30 p-2 m-2 rounded">
       <Link href="/" className="flex items-center">
         <HomeIcon />
-        <span>Home</span>
+        <span className="ml-2">Home</span>
       </Link>
 
       <div className="flex flex-1"></div>
